@@ -1,0 +1,18 @@
+# DecentSampler Library Creator - Dependencies
+# Core GUI Framework
+PySide6>=6.5.0
+
+# XML Processing
+lxml>=4.9.0
+
+# Optional Audio Libraries (for enhanced audio features)
+# pygame>=2.1.0
+# numpy>=1.21.0
+# sounddevice>=0.4.0
+
+# Build Tools (for creating standalone executable)
+pyinstaller>=5.13.0
+auto-py-to-exe>=2.40.0
+
+# Installer Creation
+nsis>=3.08.0
